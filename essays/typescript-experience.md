@@ -59,3 +59,5 @@ Python is also a great language for coding interviews because of its overall sim
 ## Conclusion
 
 With the other languages that I've programmed with, TypeScript is one of the best. Its straightforward syntax and static type system make it truly great to work with. I can't wait to work on more projects with it.
+
+*AI was used in formatting this essay, and for this essay's grammar.*
