@@ -11,6 +11,9 @@ labels:
 ---
 
 # TypeScript Learning Reflection
+<br>
+<img width="250px" src="../img/ts-logo.jpg"> 
+
 
 ## Intro
 
