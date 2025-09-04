@@ -36,7 +36,7 @@ foo = "hello";
 
 However, if you try the above code in TypeScript, it will print an error that reads "Type 'string' is not assignable to type 'number'."
 
-<img src="img/Screenshot 2025-09-03 at 10.19.05 PM.png">
+<img width="400px" src="../img/Screenshot 2025-09-03 at 10.19.05 PM.png">
 
 Being restricted from the ability to assign a different data type to a variable reduces the amount of errors you are able to create, which is a good thing for writing cleaner code. Another piece to note from the code snippet above is the `: number` portion. In TypeScript, you can explicitly define the data type for a variable (this can also be done with functions). This is good because it results in clearer code and code that's easier to read. This is a reason why I really like the explicit type system.
 
