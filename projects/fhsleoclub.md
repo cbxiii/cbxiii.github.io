@@ -13,6 +13,7 @@ summary: "Me and my other clubmates built a website for Farrington High School's
 ---
 
 <img width="750px" src="../img/Screenshot 2025-09-08 at 8.50.01 AM.png" alt="FHS Leo Club Site's landing page.">
+<br>
 
 For this project, my club was tasked with building an updated website for Farrington High School’s Leo Club. The website had to show a landing page with general information about Leo Club, upcoming club events, members of the club, and different contacts to reach the club at. The site also needed to support giving signed-in users the ability to add, edit, and delete club events and members. 
 
