@@ -11,6 +11,8 @@ labels:
   - StackOverflow
 ---
 
+<img src="../img/proxy-image.png" alt="image of a head with a big brain with teal background">
+
 ## Why it’s important to ask smart questions 
 
 Tell me if this sounds familiar: you’re stuck on a bug in your code, and you’ve tried Googling the solution, but to no avail because your code still won’t run. Even after consulting Claude or ChatGPT, you still can’t get it to run. Your next step would be to ask one of your friends, if not, post your problem on an online. In order to get a good answer to your problem, this is where you need to know how to ask a smart question. 
