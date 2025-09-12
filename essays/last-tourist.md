@@ -10,7 +10,7 @@ labels:
   - Colonialism
 ---
 
-<img src="../img/last_tourist.jpg" alt="The Last Tourist banner">
+<img width="400px" src="../img/last_tourist.jpg" alt="The Last Tourist banner">
 
 ## Introduction
 
