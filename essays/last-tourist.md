@@ -35,9 +35,9 @@ labels:
 ## Works Cited
 - Helu-Thaman, Konai. "Beyond hula, hotels, and handicrafts: A Pacific islander's
 perspective of tourism development." The Contemporary Pacific (1993): 104-111.
-- “Home - Save Elephant Foundation.” Save Elephant Foundation, 2016, www.saveelephant.org/.
+- “Home - Save Elephant Foundation.” Save Elephant Foundation, 2016, <a href="www.saveelephant.org/">www.saveelephant.org/</a>.
 Accessed 6 May 2025.
 - The Last Tourist. Directed by Tyler Sadler, Skin and Bones Film Company, Born Explorer Films,
-2021.\
+2021.
 - Trask, Haunani-Kay. "Lovely Hula Hands." Mapping the Social Landscape: Readings in
-Sociology 102 (2001): 22-34.\
+Sociology 102 (2001): 22-34.
