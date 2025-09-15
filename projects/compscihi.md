@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/fhs-leo-club-logo.png
+image: img/8bit_logo.webp
 title: "CompSciHi"
 date: 2024
 published: true
