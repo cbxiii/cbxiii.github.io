@@ -15,7 +15,7 @@ labels:
 
 ## Why it’s important to ask smart questions 
 
-Tell me if this sounds familiar: you’re stuck on a bug in your code, and you’ve tried Googling the solution, but to no avail because your code still won’t run. Even after consulting Claude or ChatGPT, you still can’t get it to run. Your next step would be to ask one of your friends, if not, post your problem on an online. In order to get a good answer to your problem, this is where you need to know how to ask a smart question. 
+Tell me if this sounds familiar: you’re stuck on a bug in your code, and you’ve tried Googling the solution, but to no avail because your code still won’t run. Even after consulting Claude or ChatGPT, you still can’t get it to run. Your next step would be to ask one of your friends, if not, post your problem on an online forum. In order to get a good answer to your problem, this is where you need to know how to ask a smart question. 
 
 As a software engineer, knowing how to ask a question is an important skill to learn. Being able to ask smart questions helps you get better answers to your problems, so you can get your code working faster. Smart questions are clear, concise, and are easy to understand. If a question is vague (big blob of code with little to no explanation), it’s less likely that people will help to answer it because they don’t know what or where the actual problem is. Smart questions are much easier to work with, so your classmate/coworker/online peer will have a clearer idea on how to help you answer it. Smart questions promote clear communication, which is essential when working with others collaboratively on building projects.
 

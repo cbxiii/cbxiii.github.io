@@ -12,12 +12,12 @@ labels:
 summary: "A website that connected UH Manoa students to local job opportunities."
 ---
 
-<img width="750px" src="../img/Screenshot 2025-09-08 at 8.50.01 AM.png" alt="FHS Leo Club Site's landing page.">
+<img width="400px" src="../img/8bit_logo.webp" alt="8bit's logo">
 <br>
 
-For this project, my club had to build a website that showed job and internship postings for UH Manoa students. 
+For this project, my club had to build a website that showed local job and internship postings to UH Manoa students. With this website, students could sign in and see a list of posted job opportunities. Students could sort based on categories such as when it was posted, what kind of work they're looking for, etc. The project 
 
-I worked on this project with two other software members in 8bit. I mainly contributed by creating the navbar, the landing page, and implementing CRUD functionality on the club events page. I also had to make sure that CRUD abilities were only given to signed-in users. This means that only signed-in users can add, edit, and delete events on the site. 
+I worked on this project with six other software members in 8bit. I contributed to the project by creating the navbar, the 404 page, and other React components and pages. I also implemented the "Forgot Password" page on the website, which used React hooks keep track of a user inputting their email address.
 
 I learned a lot from working on this project, particularly involving implementing CRUD features in React. I also gained more experience with coding in a collaborative environment, and working on a coding project with people at the same time using Git and GitHub. 
 
