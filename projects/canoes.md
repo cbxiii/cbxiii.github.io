@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/8bit_logo.webp
+image: img/canoe.jpg
 title: "Canoe Loading and Resource Distribution"
 date: 2025
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "Implementing an algorithm that optimizes resource distribution to a network of islands."
 ---
 
-<img width="400px" src="../img/8bit_logo.webp" alt="8bit's logo">
+<img width="400px" src="../img/canoe.jpg" alt="Image of canoe">
 <br>
 
 This project was an assignment for my Algorithms course. I had to create an algorithm that ensures a resource produced on one island is distributed to as many other islands as possible, as efficiently as possible. I had to load resources on canoes that had a defined capacity, and then distribute those resources equally to all of the islands. I also had to find the most efficient route between the islands for the canoes to take.
