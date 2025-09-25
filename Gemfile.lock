@@ -153,6 +153,7 @@ DEPENDENCIES
   html-proofer
   jekyll (~> 4.3.3)
   jekyll-gist
+  rake
   rouge
   tzinfo (~> 1.2)
   tzinfo-data
