@@ -18,6 +18,8 @@ labels:
 Developing anything more than the most basic website with ONLY vanilla CSS is one of the most tedious experiences I have had. I believe that any tool that can help save me time when writing CSS is more preferable than writing vanilla CSS. If you sat me in a room by myself and I could only code with vanilla CSS, I’d most likely go insane. 
 Pros and cons of Bootstrap
 
+## Pros and cons of Bootstrap
+
 While UI frameworks are far from perfect, they can save a lot of time in styling individual elements. With Bootstrap (and with other UI frameworks like TailwindCSS), you can style HTML elements with specific keywords in the class name. Using these class keywords, you can implement styling properties with a more shorthanded notation. This means styling that would usually take a multitude of lines in vanilla CSS, takes only a couple of these class keywords. For example, centering a div (one of the most feared tasks a software developer can get) can be done with just three class keywords in Bootstrap:
 
 ```
