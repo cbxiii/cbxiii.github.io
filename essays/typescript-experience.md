@@ -4,7 +4,7 @@ type: essay
 title: "The Typescript Experience"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-03
-published: true
+published: false
 labels:
   - Typescript
   - Programming

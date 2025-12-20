@@ -4,7 +4,7 @@ type: essay
 title: "The Last Tourist: Deconstructing the Colonial Structure of Tourism"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-15
-published: true
+published: false
 labels:
   - Tourism
   - Colonialism

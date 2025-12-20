@@ -4,7 +4,7 @@ type: essay
 title: "My Use of Design Patterns in Code"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-03
-published: true
+published: false
 labels:
   - Software Engineering
 ---
