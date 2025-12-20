@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript", "React", "Python", "TailwindCSS" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript", "React", "Python", "TailwindCSS", "Next.js", "SQL" ]
     },
     {
       "name": "Tools/OS",
@@ -46,6 +46,19 @@
     }
   ],
   "work": [
+    {
+      "company": "University of Hawaii Manoa",
+      "position": "Web Developer - React/TypeScript",
+      "website": "",
+      "startDate": "2025-10",
+      "endDate": "Present",
+      "summary": "Web Developer specializing in React and TypeScript",
+      "highlights": [
+        "Developing an AI chatbot for the Coral Reef Advisory Group Library using TypeScript, React, and Python to enable users to query and retrieve research insights on American Samoan coral reefs with source citations.",
+        "Implementing modular React components and integrating data from JSON and API sources, enhancing usability and data accessibility across research web tools.",
+        "Collaborating with project leads and developers using Git and agile workflows to improve development efficiency and feature deployment speed."
+      ]
+    },
     {
       "company": "Team Lihue Basketball Warriors",
       "position": "Youth Basketball Coach",
