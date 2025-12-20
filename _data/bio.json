@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript", "React", "Python", "TailwindCSS", "Next.js", "SQL" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript", "React", "Python", "TailwindCSS", "Next.js", "PostgreSQL", "Prisma" ]
     },
     {
       "name": "Tools/OS",
